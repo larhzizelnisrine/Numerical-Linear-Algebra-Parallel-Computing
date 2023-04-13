@@ -1,9 +1,4 @@
-# -*- coding: utf-8 -*-
-"""
-Created on Thu Apr 13 00:16:56 2023
 
-@author: nisri
-"""
 
 from mpi4py import MPI
 
